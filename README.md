@@ -1,5 +1,7 @@
 qemu-openwrt-playground
 =======================
+<kbd>[**vscode-web-action**](https://github.com/dirkarnez/vscode-web-action/actions/workflows/vscode-web.yml)</kbd><br>
+
 [[OpenWrt Wiki] OpenWrt in QEMU](https://openwrt.org/zh/docs/guide-user/virtualization/qemu)
 
 ### Tutorials
